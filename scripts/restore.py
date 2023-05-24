@@ -3,7 +3,7 @@
 Restore Docker images and volumes from the tarballs found in "images" and
 "volumes" subdirectories of the current directory.
 """
-from __future__ import absolute_import, print_function, unicode_literals
+
 
 import json
 import os

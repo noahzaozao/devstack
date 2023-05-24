@@ -4,7 +4,7 @@ Script to capture a snapshot of the current devstack images, repositories,
 and volume content to tarballs for no-network installation.  To be run while
 devstack is running (otherwise volume content can't be accessed).
 """
-from __future__ import absolute_import, print_function, unicode_literals
+
 
 import argparse
 import json
